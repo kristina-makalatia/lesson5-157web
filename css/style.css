@@ -1,0 +1,49 @@
+.container{
+	width: 1088px;
+	background: lightblue;
+	margin: 0 auto;
+}
+.left-block {
+	width: 536px;
+	height: 190px;
+	background: yellow;
+	display: inline-block;
+	margin-right: 16px;
+}
+.right-block {
+	width: 536px;
+	height: 190px;
+	background: green;
+	display: inline-block;
+}
+.text-block {
+	display: inline-block;
+	width: 260px;
+	background: pink;
+	vertical-align: middle;
+}
+.image-block {
+	vertical-align: middle;
+}
+.title {
+	color:  #5863F8;
+	font-size: 14px;
+	font-family: 'Poppins', sans-serif;
+	text-transform: uppercase;
+}
+.description {
+	font-size: 42px;
+	font-family: 'Poppins-ExtraBold';
+	width: 498px;
+	margin-bottom: 50px;
+}
+.text-description {
+	margin-top: 20px;
+	text-transform: capitalize;
+	letter-spacing: 4px;
+	word-spacing: 15px;
+	line-height: 20px;
+	text-indent: 50px;
+	font-weight: 900;
+	font-style: italic;
+}
